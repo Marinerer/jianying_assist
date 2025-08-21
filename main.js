@@ -5,6 +5,11 @@ const { setupIpcHandlers } = require('./src/nodeapi/ipcHandlers')
 let mainWindow;
 let storedDrafId = null;
 
+// 检测是否为开发模式
+const isDev = process.env.NODE_ENV === 'development' || 
+              process.env.ELECTRON_IS_DEV === 'true' ||
+              !app.isPackaged;
+
 
 app.on('open-url', (event, url) => {
   event.preventDefault();
@@ -62,7 +67,19 @@ function createWindow () {
     app.dock.setIcon(path.join(__dirname, './assets/icons/logo.png'))
   }
 
-  mainWindow.loadFile(path.join(__dirname, 'dist', 'index.html'));
+  // 根据环境加载不同的页面
+  if (isDev) {
+    // 开发模式：加载webpack-dev-server的地址
+    // 延迟3秒等待webpack-dev-server启动
+    setTimeout(() => {
+      mainWindow.loadURL('http://localhost:8765');
+    }, 3000);
+    // 开发模式下打开开发者工具
+    mainWindow.webContents.openDevTools();
+  } else {
+    // 生产模式：加载打包后的html文件
+    mainWindow.loadFile(path.join(__dirname, 'dist', 'index.html'));
+  }
 
   // 设置 IPC 处理程序
   setupIpcHandlers();
