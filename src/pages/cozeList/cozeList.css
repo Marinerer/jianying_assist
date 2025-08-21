@@ -1,0 +1,82 @@
+.coze-list-home {
+  display: flex;
+  flex-direction: column;
+  /* height: 100vh; */
+  overflow-y: auto;
+}
+
+.coze-list-banner {
+  height: 200px;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  color: #333;
+}
+
+.coze-list-app-list {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+
+}
+
+.coze-list-app-item {
+  position: relative;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.coze-list-app-video {
+  display: block;
+  width: 300px;
+  background-color: #333;
+  aspect-ratio: 16 / 9;
+}
+
+
+
+.coze-list-app-description {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.tocoze{
+  font-size: 12px;
+}
+
+.coze-list-info-title{
+  font-size: 14px;
+  font-weight: 600;
+
+}
+
+
+.coze-list-loading,
+.coze-list-no-more {
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  color: #888;
+}
+.coze-to-jianyin-content-video-box-title {
+  position: absolute;
+  top: -10px;
+  font-size: 12px;
+  left: 17px;
+  transform: rotate(-45deg) translate(-50%, -50%);
+  background-image: linear-gradient(45deg, green, #0f0f0f);
+  color: #ffffff;
+  padding: 1px 30px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  clip-path: polygon(23% 0, 77% 0, 100% 100%, 0 100%);
+}

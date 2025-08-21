@@ -1,0 +1,396 @@
+{
+    "data": {
+        "UrlPrefix": [
+            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/",
+            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/"
+        ],
+        "CategoryEffects": {
+            "HasMore": false,
+            "Cursor": 5,
+            "SortingPosition": 5,
+            "Version": "1423976122935,1825186856914,900,0",
+            "Effects": [
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1437263",
+                    "ResourceId": "7029592645538157086",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1637352017000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "打板转场 II",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "f50cfd9dfb243a87efc7e8b538e2eabb",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/f50cfd9dfb243a87efc7e8b538e2eabb",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/f50cfd9dfb243a87efc7e8b538e2eabb"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "624ba96daa07d888c87a54c2b5bcf684",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/624ba96daa07d888c87a54c2b5bcf684",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/624ba96daa07d888c87a54c2b5bcf684"
+                        ]
+                    },
+                    "Id": "f50cfd9dfb243a87efc7e8b538e2eabb",
+                    "EffectId": "1437264",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1636733410000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"90f843f7179e809c6a7db46b536cb39d\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":4,\"isOverlap\":false}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1432321",
+                    "ResourceId": "7028143517570437668",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1637352017000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "打板转场 I",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "4307ef0dc881bb62aeb7793ce7e8cb0e",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/4307ef0dc881bb62aeb7793ce7e8cb0e",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/4307ef0dc881bb62aeb7793ce7e8cb0e"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "cbd79c711c1fe3831768325af00566af",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/cbd79c711c1fe3831768325af00566af",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/cbd79c711c1fe3831768325af00566af"
+                        ]
+                    },
+                    "Id": "4307ef0dc881bb62aeb7793ce7e8cb0e",
+                    "EffectId": "1432322",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1636456291000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true,\"hover_icon\":\"5c6ecebe69dd83942225620f59c39dc8\",\"is_business\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":4,\"isOverlap\":false}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1441671",
+                    "ResourceId": "7030714241359286821",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1637352018000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "冲鸭",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "187a41282d12285eac2f7e171d7f2518",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/187a41282d12285eac2f7e171d7f2518",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/187a41282d12285eac2f7e171d7f2518"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "3b82824d659828f3c00005aa3f630945",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/3b82824d659828f3c00005aa3f630945",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/3b82824d659828f3c00005aa3f630945"
+                        ]
+                    },
+                    "Id": "187a41282d12285eac2f7e171d7f2518",
+                    "EffectId": "1441672",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"06380f68d066cfb47e91e31d21f1fc00\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":false},\"oe_remit_v2\":true,\"isEHEffect\":false,\"triggerJson\":null}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1433949",
+                    "ResourceId": "7028877116259176974",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1637352017000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "弹幕转场",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "c7a62fa8e74daf22f83270bf683de93f",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c7a62fa8e74daf22f83270bf683de93f",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c7a62fa8e74daf22f83270bf683de93f"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "d928ff3c42afadaa4a5b35fe744c2305",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/d928ff3c42afadaa4a5b35fe744c2305",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/d928ff3c42afadaa4a5b35fe744c2305"
+                        ]
+                    },
+                    "Id": "c7a62fa8e74daf22f83270bf683de93f",
+                    "EffectId": "1433950",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1636566797000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true,\"hover_icon\":\"ffe615128b87d0e2b0533c421639bfde\",\"is_business\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":4,\"isOverlap\":false}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1433967",
+                    "ResourceId": "7028880945671311903",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1637352017000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "气泡转场",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "582da0c734d708b7be2b5e852a33ac5f",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/582da0c734d708b7be2b5e852a33ac5f",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/582da0c734d708b7be2b5e852a33ac5f"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "efd395ff03b1f1d977bcf6afd28509fc",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/efd395ff03b1f1d977bcf6afd28509fc",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/efd395ff03b1f1d977bcf6afd28509fc"
+                        ]
+                    },
+                    "Id": "582da0c734d708b7be2b5e852a33ac5f",
+                    "EffectId": "1433968",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1636567687000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"75e410209d7bbb9d9bed521d489fd5ea\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":4,\"isOverlap\":false}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                }
+            ],
+            "Collection": [],
+            "CategoryKey": "zongyi123",
+            "BindEffects": []
+        }
+    },
+    "extra": {
+        "RecId": "20240615164500B2067FC5E568F50D7D29"
+    },
+    "BaseResp": {
+        "StatusMessage": "success",
+        "StatusCode": 0
+    }
+}

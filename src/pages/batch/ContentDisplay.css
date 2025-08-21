@@ -1,0 +1,403 @@
+/* ContentDisplay.css */
+.content-container {
+  margin: 10px 0;
+}
+
+.text-content {
+  font-size: 1rem;
+  color: #333;
+}
+
+.image-content {
+  max-width: 300px;
+  min-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.audio-content {
+  width: 100%;
+  min-width: 200px;
+  margin-top: 10px;
+}
+
+.video-content {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.loading-overlay {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  left: 0;
+  z-index: 1000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: antiquewhite;
+  top: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.large-spinner {
+  width: 70px;
+  /* 自定义宽度 */
+  height: 70px;
+  /* 自定义高度 */
+}
+
+.jianyin-path-tips {
+  color: #007bff;
+  cursor: pointer;
+  font-size: 12px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.batch-list-home {}
+
+.batch-list-home-footer {
+  margin-top: 20px;
+  color: #999;
+  font-size: 12px;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+}
+
+.batch-list-home-footer span {
+  display: flex;
+  align-items: center;
+}
+
+.batch-list-home-footer .badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+}
+
+.poster-container {
+  position: fixed;
+  left: 40px;
+  bottom: 70px;
+  z-index: 1000;
+}
+
+.poster {
+  position: relative;
+  width: 170px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: heartbeat 1.5s ease-in-out infinite;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.poster:hover {
+  transform: scale(1.05);
+}
+
+.poster-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.poster-close-btn {
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  z-index: 20000;
+  padding: 0;
+  line-height: 1;
+}
+
+.poster-close-btn:hover {
+  background-color: rgba(255, 255, 255, 1);
+  transform: rotate(90deg);
+}
+
+/* 确保关闭按钮在移动设备上也容易点击 */
+@media (max-width: 768px) {
+  .poster-close-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 20px;
+  }
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.1);
+  }
+  28% {
+    transform: scale(1);
+  }
+  42% {
+    transform: scale(1.1);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+/* 自定义图片放大弹窗样式 */
+.poster-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  cursor: zoom-out;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+.poster-overlay-content {
+  position: relative;
+  max-width: 95vw;
+  max-height: 95vh;
+  animation: fadeZoomIn 0.3s ease-in-out;
+}
+
+.poster-overlay-image {
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 2px;
+}
+
+.poster-overlay-close {
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 36px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.7;
+  transition: all 0.2s;
+  font-weight: 300;
+}
+
+.poster-overlay-close:hover {
+  opacity: 1;
+  transform: rotate(90deg);
+}
+
+@keyframes fadeZoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* 下载日志样式 */
+.download-logs {
+  font-family: monospace;
+  font-size: 14px;
+}
+
+.log-entry {
+  margin-bottom: 6px;
+  line-height: 1.4;
+  border-bottom: 1px dotted #eee;
+  padding-bottom: 6px;
+}
+
+.log-time {
+  color: #777;
+  margin-right: 8px;
+  font-weight: 500;
+}
+
+.log-message {
+  color: #333;
+}
+
+/* 不同类型日志的样式 */
+.log-error {
+  color: #dc3545;
+}
+
+.log-success {
+  color: #28a745;
+}
+
+.log-process {
+  color: #007bff;
+}
+
+.log-info {
+  color: #6c757d;
+}
+
+/* 增加滚动条样式 */
+.download-logs::-webkit-scrollbar {
+  width: 8px;
+}
+
+.download-logs::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.download-logs::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.download-logs::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* 轮播图样式 */
+.batch-list-home-header .carousel {
+  margin-bottom: 20px;
+}
+
+.batch-list-home-header .carousel-item {
+  transition: transform 0.6s ease-in-out;
+}
+
+.batch-list-home-header .carousel-caption {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  text-align: left;
+}
+
+.batch-list-home-header .carousel-indicators {
+  margin-bottom: 0;
+}
+
+/* 轮播图箭头控制按钮样式 */
+.batch-list-home-header .carousel-control-prev,
+.batch-list-home-header .carousel-control-next {
+  width: 10%;
+  opacity: 0.8;
+}
+
+.batch-list-home-header .carousel-control-prev-icon,
+.batch-list-home-header .carousel-control-next-icon {
+  background-color: rgba(128, 0, 128, 0.7);
+  padding: 15px;
+  border-radius: 50%;
+  background-size: 60%;
+  width: 40px;
+  height: 40px;
+}
+
+.batch-list-home-header .carousel-control-prev:hover,
+.batch-list-home-header .carousel-control-next:hover {
+  opacity: 1;
+}
+
+/* 响应式样式 */
+@media (max-width: 768px) {
+  .batch-list-home-header .carousel img {
+    max-height: 150px !important;
+  }
+  
+  .batch-list-home-header .carousel-caption h5 {
+    font-size: 1rem;
+  }
+  
+  .batch-list-home-header .carousel-caption p {
+    font-size: 0.8rem;
+  }
+  
+  .batch-list-home-header .carousel-control-prev-icon,
+  .batch-list-home-header .carousel-control-next-icon {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+  }
+}
+
+/* 活动指示器样式 */
+.batch-list-home-header .carousel-indicators button {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgba(128, 0, 128, 0.4);
+}
+
+.batch-list-home-header .carousel-indicators .active {
+  background-color: #800080;
+}
+
+/* 案例草稿按钮样式 */
+.quick-input-buttons {
+  transition: all 0.3s ease;
+}
+
+.quick-input-buttons .text-muted {
+  line-height: 1;
+  display: flex;
+  align-items: center;
+}
+
+.quick-input-buttons i {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.draft-btn {
+  transition: all 0.2s ease;
+  font-size: 0.85rem;
+  padding: 0.25rem 0.75rem;
+  border-width: 1px;
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.draft-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 123, 255, 0.1);
+}
+
+/* 响应式样式 */
+@media (max-width: 768px) {
+  .quick-input-buttons > div > div:first-child {
+    margin-bottom: 8px;
+    width: 100%;
+  }
+}

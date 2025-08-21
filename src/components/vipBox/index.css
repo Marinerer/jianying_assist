@@ -1,0 +1,227 @@
+/* 弹窗遮罩层 */
+.custom-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* 半透明黑色背景 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  /* 确保弹窗在最上层 */
+}
+
+/* 弹窗容器 */
+.custom-modal {
+  position: relative;
+  border-radius: 8px;
+  width: 80%;
+  animation: fadeIn 0.3s ease-in-out;
+  border-radius: 24px;
+  padding-bottom: 30px;
+  /* 淡入动画 */
+}
+
+.cloise-custom {
+  position: absolute;
+  border-radius: 5px;
+  top: 22px;
+  right: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.cloise-custom-icon {
+  width: 100%;
+  height: 100%;
+}
+
+.custom-modal-top {
+  width: 100%;
+  height: 144px;
+  border-radius: 24px 24px 0 0;
+  background-image: url('https://video-translate-web.oss-cn-beijing.aliyuncs.com/image/purchaseSvipBanner.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.custom-modal-title {
+  width: 100%;
+  height: 145px;
+  margin-top: -70px;
+  background-image: url('https://video-translate-web.oss-cn-beijing.aliyuncs.com/image/purchaseSvipNav.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  padding-top: 18px;
+  color: #eecca1;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.custom-modal-title-content {}
+
+.custom-modal-title-icon {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+
+.custom-modal-content {
+  background-color: #1d1a16;
+  padding: 0 18px;
+  padding-bottom: 30px;
+  border-radius: 0 0 24px 24px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.custom-code {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.custom-code-img {
+  width: 166px;
+  height: 166px;
+  border-radius: 10px;
+  background-image: linear-gradient(90deg, #fff, #fff), linear-gradient(135deg, #ffe3a2, #ffae7d);
+}
+
+.custom-code-img>img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.custom-play-type-content {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  width: -moz-max-content;
+  width: max-content;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #908f8f;
+  line-height: 1;
+  font-family: Source Han Sans SC;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.custom-play-type-info {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #666;
+  padding: 0 14px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.custom-play-type-info>img {
+  width: 16px;
+  height: 16px;
+  margin-right: 6px;
+}
+
+.custom-play-type-info-active {
+  color: #999 !important;
+  background: #666;
+}
+
+
+
+.vpd_price_choos {
+  height: 210px !important;
+  width: 180px !important;
+  color: #6a3419 !important;
+  background: url('https://video-translate-web.oss-cn-beijing.aliyuncs.com/image/vpdSvipPriceChoose.png') no-repeat;
+}
+
+.custom-shops-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  align-items: flex-end;
+  overflow: visible;
+}
+
+
+.custom-shops-info {
+  position: relative;
+  background-size: 100% 100%;
+  width: 20%;
+  background-color: #333;
+  margin: 0 1.5%;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  color: hsla(0, 0%, 60%, .5);
+  text-align: center;
+  width: 164px;
+  height: 190px;
+}
+
+.limit_discount {
+  position: absolute;
+  padding: 0 24px;
+  height: 34px;
+  background: linear-gradient(174deg, #f62c57, #ec67c7);
+  border-radius: 25px 25px 25px 0;
+  font-size: 18px;
+  font-family: SourceHanSansSC-Regular, SourceHanSansSC;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: -23px;
+  left: 0;
+}
+
+.custom-shops-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.custom-shops-num {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.custom-shops-num-old {
+  text-decoration: line-through;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.purchase_btn {
+  width: 72.88%;
+  height: 40px;
+  line-height: 40px;
+  background: #ffc47b;
+  font-size: 16px;
+  font-family: SourceHanSansSC-Medium, SourceHanSansSC;
+  font-weight: 500;
+  color: #62251a;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 22px auto 0 auto;
+  box-sizing: border-box;
+}
+
+.custom-shops-tips {
+  margin-top: 20px;
+  text-align: start;
+  font-size: 12px;
+  text-align: center;
+}

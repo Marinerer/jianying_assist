@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>聊天应用</title>
+    <script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.0.0-beta.4/libs/cn/index.js"></script>
+</head>
+<body>
+
+
+    <script type="text/javascript">
+        var webSdkScript = document.createElement('script');
+        webSdkScript.src = 'https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.0.0-beta.4/libs/cn/index.js';
+        document.head.appendChild(webSdkScript);
+        webSdkScript.onload = function () {
+          new CozeWebSDK.WebChatClient({
+            "config": {
+              "type": "app",
+              "appInfo": {
+                "appId": "7448066137990234153",
+                "workflowId": ""
+              }
+            },
+            "auth": {
+              "type": "token",
+              "token": "pat_UIbGps9AejsHfW66HfOAw1bfoBS9QdU4WPNEI4au3CtATSNQVbhGpCQ44Idu1LE5",
+              onRefreshToken: function () {
+                return "pat_UIbGps9AejsHfW66HfOAw1bfoBS9QdU4WPNEI4au3CtATSNQVbhGpCQ44Idu1LE5"
+              }
+            }
+          });
+        }
+        </script>
+    
+</body>
+</html>

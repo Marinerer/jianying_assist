@@ -1,0 +1,441 @@
+.user-info-container {
+  margin-top: 4rem;
+  padding: 10px 10px 140px 10px;
+  background-color: #f9f9ff;
+  min-height: calc(100vh - 55px);
+}
+
+/* 卡片基础样式 */
+.user-info-item, .user-card {
+  padding: 22px;
+  background-color: #fff;
+  border-radius: 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 12px rgba(147, 112, 219, 0.08);
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.user-info-item:hover {
+  box-shadow: 0 5px 18px rgba(147, 112, 219, 0.12);
+  transform: translateY(-2px);
+}
+
+/* 用户信息卡片 */
+.user-card {
+  background: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.user-card-number {
+  margin-right: 20px;
+  position: relative;
+}
+
+.number-circle {
+  position: relative;
+  background: linear-gradient(45deg, #9370DB, #8A2BE2);
+  color: white;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  font-size: 32px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(147, 112, 219, 0.2);
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.number-circle:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(147, 112, 219, 0.25);
+}
+
+.vip-icon {
+  position: absolute;
+  top: -5px;
+  right: -15px;
+  width: 45px;
+  height: auto;
+  transform: rotate(15deg);
+  z-index: 2;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.5));
+  transition: all 0.3s ease;
+  border: 2px solid #FFD700;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #FFD700, #FF8C00);
+  padding: 3px;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.7);
+}
+
+.vip-icon:hover {
+  transform: rotate(10deg) scale(1.15);
+  filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.6));
+  box-shadow: 0 0 18px rgba(255, 215, 0, 0.9);
+}
+
+.vip-badge-container {
+  position: absolute;
+  top: -10px;
+  right: -20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+}
+
+.vip-text-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2px;
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 3px 10px;
+  border-radius: 12px;
+  border: 1.5px solid #FFD700;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s ease;
+}
+
+.vip-badge-container:hover .vip-text-wrapper {
+  transform: scale(1.1);
+  background-color: rgba(0, 0, 0, 0.85);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5), 0 0 15px rgba(255, 215, 0, 0.8);
+  border: 1.5px solid #FFC107;
+}
+
+.vip-text {
+  font-size: 14px;
+  font-weight: 800;
+  color: #FFD700;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.9), 0 0 5px rgba(255, 140, 0, 0.8);
+  letter-spacing: 1.5px;
+}
+
+/* 标题和文本样式 */
+.user-detail-title {
+  font-weight: 500;
+  color: #444;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.user-info-title {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #8A2BE2;
+  font-weight: 600;
+}
+
+/* 用户内容布局 */
+.user-info-content {
+  display: flex;
+  align-items: center;
+}
+
+.user-details {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  padding: 5px 0;
+}
+
+.user-detail-item {
+  flex: 1 1 45%;
+  min-width: 220px;
+  display: flex;
+  align-items: center;
+  padding: 8px 10px;
+  margin: 4px;
+  background-color: #f9f6ff;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.user-detail-item:hover {
+  background-color: #f0ebfa;
+}
+
+/* 导航和操作区域 */
+.user-info-logout {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.login-botton {
+  background: linear-gradient(45deg, #9370DB, #8A2BE2);
+  color: white;
+  padding: 6px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(147, 112, 219, 0.2);
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+
+.login-botton:hover {
+  box-shadow: 0 4px 10px rgba(147, 112, 219, 0.3);
+  transform: translateY(-2px);
+}
+
+.login-botton:active {
+  box-shadow: 0 2px 4px rgba(147, 112, 219, 0.3);
+  transform: translateY(1px);
+}
+
+/* VIP相关样式 */
+.user-vip-detail {
+  flex-basis: 100%;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  padding: 12px 15px;
+  background: linear-gradient(135deg, #f9f6ff, #f0ebfa);
+  border-radius: 12px;
+}
+
+.user-get-vip {
+  background: linear-gradient(45deg, #9370DB, #8A2BE2);
+  color: white;
+  font-size: 13px;
+  padding: 6px 16px;
+  font-weight: 400;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-left: 16px;
+  box-shadow: 0 2px 6px rgba(147, 112, 219, 0.2);
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.user-get-vip:hover {
+  box-shadow: 0 4px 10px rgba(147, 112, 219, 0.3);
+  transform: translateY(-2px);
+}
+
+.user-get-vip:active {
+  transform: translateY(1px);
+}
+
+/* 设置项样式 */
+.section-title {
+  color: #8A2BE2;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.section-title svg {
+  margin-right: 8px;
+}
+
+.section-title:after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, #e6d4f9, transparent);
+  margin-left: 15px;
+}
+
+.setting-item {
+  font-size: 14px;
+  color: #555;
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+  flex-wrap: wrap;
+}
+
+.setting-item-btn {
+  cursor: pointer;
+  padding: 6px 16px;
+  background: linear-gradient(45deg, #9370DB, #8A2BE2);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  font-size: 13px;
+  margin-left: 15px;
+  box-shadow: 0 2px 6px rgba(147, 112, 219, 0.2);
+  transition: all 0.3s ease;
+  font-weight: 400;
+}
+
+.setting-item-btn:hover {
+  box-shadow: 0 4px 10px rgba(147, 112, 219, 0.3);
+  transform: translateY(-2px);
+}
+
+.setting-item-btn:active {
+  transform: translateY(1px);
+}
+
+.user-settings-content {
+  padding: 0;
+}
+
+/* API密钥和路径显示区域 */
+.api-token-box {
+  background: #f9f6ff;
+  padding: 12px 15px;
+  border-radius: 8px;
+  font-size: 13px;
+  word-break: break-all;
+  font-family: monospace;
+  margin: 10px 0;
+  position: relative;
+  transition: all 0.3s ease;
+  color: #555;
+}
+
+.api-token-box:hover {
+  background: #f0ebfa;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 2px 8px;
+  font-size: 12px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  cursor: pointer;
+  color: #8A2BE2;
+  transition: all 0.3s ease;
+}
+
+.copy-btn:hover {
+  background: white;
+}
+
+.path-value {
+  background: #f9f6ff;
+  padding: 6px 12px;
+  border-radius: 8px;
+  margin: 0 8px;
+  font-family: monospace;
+  color: #444;
+  font-size: 13px;
+}
+
+/* 表单元素样式 */
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(147, 112, 219, 0.2) !important;
+  border-color: #9370DB !important;
+}
+
+.form-control {
+  transition: all 0.3s ease;
+  font-size: 14px;
+  padding: 0.375rem 0.75rem;
+}
+
+.hint-icon {
+  color: #9370DB;
+  margin-left: 6px;
+  cursor: help;
+  transition: transform 0.3s ease;
+}
+
+.hint-icon:hover {
+  transform: scale(1.1);
+}
+
+/* 移动端适配 */
+@media screen and (max-width: 768px) {
+  .user-info-container {
+    padding: 10px 10px 160px 10px;
+  }
+  
+  .user-info-content {
+    flex-direction: column;
+  }
+  
+  .number-circle {
+    margin: 0 auto 15px;
+  }
+  
+  .setting-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .setting-item-btn {
+    margin: 10px 0 0 0;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .user-vip-detail {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .user-get-vip {
+    margin: 10px 0 0 0;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .user-detail-item {
+    flex: 1 1 100%;
+    min-width: unset;
+  }
+
+  .user-details {
+    width: 100%;
+  }
+
+  .path-value {
+    margin: 6px 0;
+    display: block;
+    width: 100%;
+    overflow: auto;
+  }
+  
+  .user-info-item, .user-card {
+    padding: 16px;
+  }
+  
+  .vip-icon {
+    top: -5px;
+    right: -5px;
+    width: 40px;
+    border: 2px solid #FFD700;
+    padding: 2px;
+    background: linear-gradient(45deg, #FFD700, #FF8C00);
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
+  }
+  
+  .vip-badge-container {
+    top: -8px;
+    right: -10px;
+  }
+  
+  .vip-text-wrapper {
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+  
+  .vip-text {
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+}

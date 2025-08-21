@@ -1,0 +1,253 @@
+.mine-content {
+  display: flex;
+  min-height: calc(100vh - 55px);
+
+}
+
+.mine-table {
+
+  width: 144px;
+  flex: 0 0 144px;
+  min-height: calc(100vh - 55px);
+}
+
+.mine-table-left {
+  min-height: calc(100vh - 55px);
+  padding: 20px 5px;
+}
+
+.mine-content-right {
+  height: calc(100vh - 55px);
+  padding: 30px;
+  overflow-y: auto;
+  flex-grow: 1;
+  /* 新增 */
+  flex-shrink: 1;
+  /* 新增 */
+  min-width: 0;
+  /* 新增，允许元素缩小到更小的尺寸 */
+}
+
+
+
+@media (min-width: 769px) {
+  .mine-table {
+    transform: translateX(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .hide-sidebar {
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .mine-table {
+    width: 100%;
+  }
+
+  .mine-content-right {
+    flex: 1;
+  }
+}
+
+
+.MineService {}
+
+.MineService-tab {
+  display: flex;
+  width: 100%;
+}
+
+.MineService-top {
+  flex: 1;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid rgb(61, 61, 60);
+}
+
+.MineService-title {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.MineService-content {
+  display: flex;
+  align-items: center;
+
+}
+
+.MineService-machine {
+  text-align: center;
+  padding: 10px;
+}
+
+.machine-tips {
+  font-size: 14px;
+}
+
+.machine-num {
+  margin-top: 10px;
+  color: blue;
+  font-size: 24px;
+}
+
+.MineService-balance {
+  border: 1px solid rgb(61, 61, 60);
+  border-radius: 10px;
+  width: 300px;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.balance-content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 22px;
+  margin-top: 12px;
+  background: linear-gradient(51deg, #77a5e9 0, #0454eb 100%);
+  border-radius: 2px;
+  opacity: .8;
+  color: #fff;
+}
+
+.balance-left {}
+
+.balance-tips {
+  font-size: 14px;
+}
+
+.balance-num {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.balance-buttom {
+  border-top: 1px solid rgba(0,0,0,.06);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+.balance-buttom-left{
+  color: #0454eb;
+  cursor: pointer;
+}
+
+.balance-num span {
+  font-size: 24px;
+}
+
+.image-title {
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+
+.computing-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: inherit;
+  padding: 10px;
+  background-image: url('https://s.coze.cn/t/CvQgBj6Ug_G8_pIe/');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.recharge {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.recharge-content {
+  background: #fff;
+  border: 5px solid rgba(255, 255, 255, 0.5);
+  padding: 19px 30px;
+  font-size: 14px;
+  margin-top: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.Market-title{
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.Market-tab{
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.Market-button{
+  margin-top: 30px;
+  background: #0454eb;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+
+.recharge-num {
+  
+}
+
+.tips {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: #2b2111;
+  border-radius: 0.125rem;
+  border: 0.0625rem solid #594214;
+  font-size: .875rem;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: rgba(255, 255, 255, .65);
+  line-height: 1.375rem;
+}
+
+.table th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table td {
+  text-align: center;
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+.balance-right {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.to-rech {
+  background: #9dbaf3;
+}
+
+.Market-amount{
+  position: absolute;
+  right: 5px;
+  top: 20px;
+  color: #f7412d;
+  font-weight: 600;
+  font-size: 14px;
+}

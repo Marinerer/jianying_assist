@@ -1,0 +1,45 @@
+.login-botton {
+  background-color: #34c8ed;
+  color: white;
+  padding: 5px 15px;
+  font-size: 14px;
+  border-radius: 19px;
+  cursor: pointer;
+}
+
+.user-name {
+  color: white;
+  margin-right: 10px;
+}
+
+.login-bottom {
+  width: 100%;
+  text-align: end;
+}
+
+.user-title {
+  display: contents;
+}
+
+.phone-code {
+  display: flex;
+  align-items: center;
+}
+
+.user-content {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.login-type {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weixin-code {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

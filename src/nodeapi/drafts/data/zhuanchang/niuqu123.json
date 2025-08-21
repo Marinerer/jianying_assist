@@ -1,0 +1,470 @@
+{
+    "data": {
+        "UrlPrefix": [
+            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/",
+            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/"
+        ],
+        "CategoryEffects": {
+            "HasMore": false,
+            "Cursor": 6,
+            "SortingPosition": 6,
+            "Version": "1398552155686,1393795925926,900,0",
+            "Effects": [
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211775",
+                    "ResourceId": "6851810799510360583",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354682000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "漩涡",
+                    "Hint": "",
+                    "SdkVersion": "5.0.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "de3ad6cc4ef56c78389cda2d638a7fc8",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/de3ad6cc4ef56c78389cda2d638a7fc8",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/de3ad6cc4ef56c78389cda2d638a7fc8"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "5fa519320f891d4b5766038d6ef0768a",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5fa519320f891d4b5766038d6ef0768a",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5fa519320f891d4b5766038d6ef0768a"
+                        ]
+                    },
+                    "Id": "de3ad6cc4ef56c78389cda2d638a7fc8",
+                    "EffectId": "4211780",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255630000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"2f61368220e24d5ab8466362c6e08fe3\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":1,\"isOverlap\":false}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4212465",
+                    "ResourceId": "6751618376780485133",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354683000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "压缩",
+                    "Hint": "",
+                    "SdkVersion": "5.0.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "c459e5d6cbf255afa209622939aaa9d3",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c459e5d6cbf255afa209622939aaa9d3",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c459e5d6cbf255afa209622939aaa9d3"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "1fb6da57acf014c47e1013b4bdc71c60",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/1fb6da57acf014c47e1013b4bdc71c60",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/1fb6da57acf014c47e1013b4bdc71c60"
+                        ]
+                    },
+                    "Id": "c459e5d6cbf255afa209622939aaa9d3",
+                    "EffectId": "4212466",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661260950000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"f254aae340e4be91f62d3b62d63d4c7e\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211773",
+                    "ResourceId": "6748220149284737550",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354682000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "回忆",
+                    "Hint": "",
+                    "SdkVersion": "5.0.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "78d45fd1072079ff2b0db43047478472",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/78d45fd1072079ff2b0db43047478472",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/78d45fd1072079ff2b0db43047478472"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "e1f3294a54af1feb302930988532a525",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e1f3294a54af1feb302930988532a525",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e1f3294a54af1feb302930988532a525"
+                        ]
+                    },
+                    "Id": "78d45fd1072079ff2b0db43047478472",
+                    "EffectId": "4211778",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255630000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"9aeee2df83fccbdb03ab75451cb0dd5f\",\"is_business\":true,\"is_vip\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211774",
+                    "ResourceId": "6748220462746046989",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354682000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "回忆 II",
+                    "Hint": "",
+                    "SdkVersion": "5.0.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "163ee61b6c062785cb7a93517f448c03",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/163ee61b6c062785cb7a93517f448c03",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/163ee61b6c062785cb7a93517f448c03"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "e5bfae873ae9d44c59c1f1fe3f8397c8",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e5bfae873ae9d44c59c1f1fe3f8397c8",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e5bfae873ae9d44c59c1f1fe3f8397c8"
+                        ]
+                    },
+                    "Id": "163ee61b6c062785cb7a93517f448c03",
+                    "EffectId": "4211779",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255630000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true,\"hover_icon\":\"d446d172b5be7ae8cdeab63731043635\",\"is_business\":true,\"is_vip\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211776",
+                    "ResourceId": "6987201429622493732",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354682000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "向左拉伸",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "1c1de048a1c1a9b3d1b7cf8c8cba8152",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/1c1de048a1c1a9b3d1b7cf8c8cba8152",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/1c1de048a1c1a9b3d1b7cf8c8cba8152"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "0740e3d8265ee84835c05bd5bdf8a447",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/0740e3d8265ee84835c05bd5bdf8a447",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/0740e3d8265ee84835c05bd5bdf8a447"
+                        ]
+                    },
+                    "Id": "1c1de048a1c1a9b3d1b7cf8c8cba8152",
+                    "EffectId": "4211781",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255630000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"ed0c57ffb8d1786d749af6fcaf398f73\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211777",
+                    "ResourceId": "6987299127025472031",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354682000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "向右拉伸",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "eaa581df273e8da0852e17e5d9581d7c",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/eaa581df273e8da0852e17e5d9581d7c",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/eaa581df273e8da0852e17e5d9581d7c"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "ffd771c9444ad405b950152a113c50b5",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/ffd771c9444ad405b950152a113c50b5",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/ffd771c9444ad405b950152a113c50b5"
+                        ]
+                    },
+                    "Id": "eaa581df273e8da0852e17e5d9581d7c",
+                    "EffectId": "4211782",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255630000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"373a017b014ba360c4db45e65b46a9a8\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                }
+            ],
+            "Collection": [],
+            "CategoryKey": "niuqu123",
+            "BindEffects": []
+        }
+    },
+    "extra": {
+        "RecId": "202406151640105F838781246C610A2651"
+    },
+    "BaseResp": {
+        "StatusMessage": "success",
+        "StatusCode": 0
+    }
+}

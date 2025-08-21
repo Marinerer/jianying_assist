@@ -1,0 +1,1712 @@
+{
+    "data": {
+        "UrlPrefix": [
+            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/",
+            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/"
+        ],
+        "CategoryEffects": {
+            "HasMore": false,
+            "Cursor": 20,
+            "SortingPosition": 20,
+            "Version": "1552338150583,1347843554186,900,0",
+            "Effects": [
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1522423",
+                    "ResourceId": "7052201781241057805",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1642100153000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "烟花 III",
+                    "Hint": "",
+                    "SdkVersion": "9.5.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "5d6d7516368c1dcdfb2bb274c2600416",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5d6d7516368c1dcdfb2bb274c2600416",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5d6d7516368c1dcdfb2bb274c2600416"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "a8528ad09becfafad44e781ad7cad9e8",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/a8528ad09becfafad44e781ad7cad9e8",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/a8528ad09becfafad44e781ad7cad9e8"
+                        ]
+                    },
+                    "Id": "5d6d7516368c1dcdfb2bb274c2600416",
+                    "EffectId": "1522424",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1641997484000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [
+                        "blit"
+                    ],
+                    "Extra": "{\"effect_duration\":3000,\"hover_icon\":\"b644979f8089adadf011b330d7d24250\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"default\":0.5,\"effect_key\":\"effects_adjust_filter\",\"max\":1,\"min\":0},{\"default\":0.3361999988555908,\"effect_key\":\"effects_adjust_speed\",\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "RendererSystem",
+                        "ScriptSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1521389",
+                    "ResourceId": "7051887173276013093",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1642100153000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "倒计时 II",
+                    "Hint": "",
+                    "SdkVersion": "9.5.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "e01f6dadb794566d1ea3364d564f3f59",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e01f6dadb794566d1ea3364d564f3f59",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e01f6dadb794566d1ea3364d564f3f59"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "1eca22f5104cfec162cf374d957f58be",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/1eca22f5104cfec162cf374d957f58be",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/1eca22f5104cfec162cf374d957f58be"
+                        ]
+                    },
+                    "Id": "e01f6dadb794566d1ea3364d564f3f59",
+                    "EffectId": "1521390",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1641924233000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":5000,\"hover_icon\":\"3ee956c44fef5034cd65f352176ebb4d\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"default\":1,\"effect_key\":\"effects_adjust_blur\",\"max\":1,\"min\":0},{\"default\":0.33,\"effect_key\":\"effects_adjust_speed\",\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1452335",
+                    "ResourceId": "7033654301050278431",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1639750863000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金粉旋转",
+                    "Hint": "",
+                    "SdkVersion": "9.5.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "14fd0f24372acd5be33505ee5759ca11",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/14fd0f24372acd5be33505ee5759ca11",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/14fd0f24372acd5be33505ee5759ca11"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "49c03ecab223f542b892e6fdd84cecc4",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/49c03ecab223f542b892e6fdd84cecc4",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/49c03ecab223f542b892e6fdd84cecc4"
+                        ]
+                    },
+                    "Id": "14fd0f24372acd5be33505ee5759ca11",
+                    "EffectId": "1452336",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1637679127000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [
+                        "blit"
+                    ],
+                    "Extra": "{\"effect_duration\":3000,\"hover_icon\":\"2b7f7f4b9634f422ed7bd14560ffd369\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":0,\"copyright_can_convert_pay\":false,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":0,\"copyright_can_convert_commerce\":false}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"default\":0.3361999988555908,\"effect_key\":\"effects_adjust_speed\",\"max\":1,\"min\":0},{\"default\":0.5,\"effect_key\":\"effects_adjust_filter\",\"max\":1,\"min\":0},{\"default\":1,\"effect_key\":\"effects_adjust_background_animation\",\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "RendererSystem",
+                        "ScriptSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1453819",
+                    "ResourceId": "7034048554318434830",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1639750863000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金粉闪闪",
+                    "Hint": "",
+                    "SdkVersion": "9.5.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "a552dfa820b5aba27e4f09e3d83b8643",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/a552dfa820b5aba27e4f09e3d83b8643",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/a552dfa820b5aba27e4f09e3d83b8643"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "11ea81509b6ba54939ef9477d3ab3577",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/11ea81509b6ba54939ef9477d3ab3577",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/11ea81509b6ba54939ef9477d3ab3577"
+                        ]
+                    },
+                    "Id": "a552dfa820b5aba27e4f09e3d83b8643",
+                    "EffectId": "1453820",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1637770925000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [
+                        "blit"
+                    ],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"30e3465ec826f32c6ff33410aab1d78c\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"default\":0.3361999988555908,\"effect_key\":\"effects_adjust_speed\",\"max\":1,\"min\":0},{\"default\":0.5,\"effect_key\":\"effects_adjust_filter\",\"max\":1,\"min\":0},{\"default\":1,\"effect_key\":\"effects_adjust_background_animation\",\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "RendererSystem",
+                        "ScriptSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "631214",
+                    "ResourceId": "6709706378702754312",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375685000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金粉",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "0443a82ca7b709b643abaf8da7051cca",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/0443a82ca7b709b643abaf8da7051cca",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/0443a82ca7b709b643abaf8da7051cca"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "b521aa2addc5d7877da9ad6630826cfb",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/b521aa2addc5d7877da9ad6630826cfb",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/b521aa2addc5d7877da9ad6630826cfb"
+                        ]
+                    },
+                    "Id": "0443a82ca7b709b643abaf8da7051cca",
+                    "EffectId": "631215",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583777651000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"5a90c347e7e49c30646bf18d85f15ee1\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1188615",
+                    "ResourceId": "6984393847467938335",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1626381033000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金粉 III",
+                    "Hint": "",
+                    "SdkVersion": "6.9.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "752d69c565983fbed6bb13c3d8542ca7",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/752d69c565983fbed6bb13c3d8542ca7",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/752d69c565983fbed6bb13c3d8542ca7"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "21206aebe97c0c1a353845c173eff7a6",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/21206aebe97c0c1a353845c173eff7a6",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/21206aebe97c0c1a353845c173eff7a6"
+                        ]
+                    },
+                    "Id": "752d69c565983fbed6bb13c3d8542ca7",
+                    "EffectId": "1188618",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1626209733000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"087894fe416acff711f91d197fe55c8d\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "881782",
+                    "ResourceId": "6858953149974057486",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1597070875000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "粉色闪粉",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "e0294c868dacfeb1f83c406d4e21e121",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e0294c868dacfeb1f83c406d4e21e121",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e0294c868dacfeb1f83c406d4e21e121"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "423a64561ad7a684f672871017bfbfd2",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/423a64561ad7a684f672871017bfbfd2",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/423a64561ad7a684f672871017bfbfd2"
+                        ]
+                    },
+                    "Id": "e0294c868dacfeb1f83c406d4e21e121",
+                    "EffectId": "881784",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1597003622000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"78a20d7c20ca675133dabb4d9567e07f\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "703244",
+                    "ResourceId": "6806254339821146637",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1588192175000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金粉聚拢",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "a4d9c4c3bde58e6aa6db39fcef692108",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/a4d9c4c3bde58e6aa6db39fcef692108",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/a4d9c4c3bde58e6aa6db39fcef692108"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "fdd60428779c38bd2e9a0aa729384255",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/fdd60428779c38bd2e9a0aa729384255",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/fdd60428779c38bd2e9a0aa729384255"
+                        ]
+                    },
+                    "Id": "a4d9c4c3bde58e6aa6db39fcef692108",
+                    "EffectId": "703245",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1587743469000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"703933d530e443dc42fd87812b38587f\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1133661",
+                    "ResourceId": "6963476143370408485",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1621373561000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "仙尘闪闪",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "8b9da7f7b3cdd95bd73cc2444433017e",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/8b9da7f7b3cdd95bd73cc2444433017e",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/8b9da7f7b3cdd95bd73cc2444433017e"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "9542c187fd9127d10b0ac19688f57b81",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/9542c187fd9127d10b0ac19688f57b81",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/9542c187fd9127d10b0ac19688f57b81"
+                        ]
+                    },
+                    "Id": "8b9da7f7b3cdd95bd73cc2444433017e",
+                    "EffectId": "1133662",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1621339453000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"0e2ab58a187745dd97c245b23556b412\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "634228",
+                    "ResourceId": "6771299796058640908",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375686000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金片",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "5ff7544cd83c2ec196b1acc8f47bf51c",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5ff7544cd83c2ec196b1acc8f47bf51c",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5ff7544cd83c2ec196b1acc8f47bf51c"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "94e26cf8cda286c84b685f9cf3017bac",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/94e26cf8cda286c84b685f9cf3017bac",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/94e26cf8cda286c84b685f9cf3017bac"
+                        ]
+                    },
+                    "Id": "5ff7544cd83c2ec196b1acc8f47bf51c",
+                    "EffectId": "634229",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583939736000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"fb7672a16878f3c1d9b2ed1872ec8268\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1030625",
+                    "ResourceId": "6924589854269379079",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1612294285000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金片 II",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "3100003d53722ae2d1e8ca0bde4a1043",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/3100003d53722ae2d1e8ca0bde4a1043",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/3100003d53722ae2d1e8ca0bde4a1043"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "0ef399eee80391f9353a9776b8ae35c5",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/0ef399eee80391f9353a9776b8ae35c5",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/0ef399eee80391f9353a9776b8ae35c5"
+                        ]
+                    },
+                    "Id": "3100003d53722ae2d1e8ca0bde4a1043",
+                    "EffectId": "1030626",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1612285524000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"5db8edd3713be2ddb213ae9072fd9061\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "987443",
+                    "ResourceId": "6907439016547717646",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1608316591000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "金粉撒落",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "c84cfe1f31a1a79e5a9b362bc744d3d3",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c84cfe1f31a1a79e5a9b362bc744d3d3",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c84cfe1f31a1a79e5a9b362bc744d3d3"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "fe3e715fbc31330b2b0d07df509b5cc1",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/fe3e715fbc31330b2b0d07df509b5cc1",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/fe3e715fbc31330b2b0d07df509b5cc1"
+                        ]
+                    },
+                    "Id": "c84cfe1f31a1a79e5a9b362bc744d3d3",
+                    "EffectId": "987445",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1608292329000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"6bf1f19a605a110f0b1be42f7c8b6aae\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1146789",
+                    "ResourceId": "6967274435963261476",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1622329209000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "精灵闪粉",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "4a4d26ee6fcb0a71ee15666b8864498f",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/4a4d26ee6fcb0a71ee15666b8864498f",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/4a4d26ee6fcb0a71ee15666b8864498f"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "16ff40d56eaf1418a1ab9f0b818e17b7",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/16ff40d56eaf1418a1ab9f0b818e17b7",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/16ff40d56eaf1418a1ab9f0b818e17b7"
+                        ]
+                    },
+                    "Id": "4a4d26ee6fcb0a71ee15666b8864498f",
+                    "EffectId": "1146790",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1622223804000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"hover_icon\":\"ff6d73651354db088db2f75054dcc589\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "1136673",
+                    "ResourceId": "6964608751231832613",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1621632901000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "魔法变身",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "4ec729c610f93a85cd08b9a9474aaecf",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/4ec729c610f93a85cd08b9a9474aaecf",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/4ec729c610f93a85cd08b9a9474aaecf"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "3f686d13feab749bbd2a30c09adbe43b",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/3f686d13feab749bbd2a30c09adbe43b",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/3f686d13feab749bbd2a30c09adbe43b"
+                        ]
+                    },
+                    "Id": "4ec729c610f93a85cd08b9a9474aaecf",
+                    "EffectId": "1136674",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1621603165000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"星光氛围\\\"}]}\",\"hover_icon\":\"d22bcc90de246da0301610385b4b55d9\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "MeshRendererSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "634172",
+                    "ResourceId": "6746483363567112707",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375685000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "仙女变身",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "b45f02e327c3c242c54f91655798d9c0",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/b45f02e327c3c242c54f91655798d9c0",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/b45f02e327c3c242c54f91655798d9c0"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "8355d5ada1d8ad54e5ba2a896c9c3bca",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/8355d5ada1d8ad54e5ba2a896c9c3bca",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/8355d5ada1d8ad54e5ba2a896c9c3bca"
+                        ]
+                    },
+                    "Id": "b45f02e327c3c242c54f91655798d9c0",
+                    "EffectId": "634173",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583939129000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"71f4c8dbb923d5536218b74268df6ba2\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "634170",
+                    "ResourceId": "6747515070114173447",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375685000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "仙女变身 II",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "6963f2dab25279d695f581922ce9f87f",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/6963f2dab25279d695f581922ce9f87f",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/6963f2dab25279d695f581922ce9f87f"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "5bc49dbbd7f97d4e630f655367a8500e",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5bc49dbbd7f97d4e630f655367a8500e",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5bc49dbbd7f97d4e630f655367a8500e"
+                        ]
+                    },
+                    "Id": "6963f2dab25279d695f581922ce9f87f",
+                    "EffectId": "634171",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583939106000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"e70cbc34c26a5074c317112524404790\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "634162",
+                    "ResourceId": "6720029866504229390",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375685000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "飘落闪粉 II",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "6bd90b0f33d3722d759b0fc2d5ddc9bd",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/6bd90b0f33d3722d759b0fc2d5ddc9bd",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/6bd90b0f33d3722d759b0fc2d5ddc9bd"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "e99a367db5dca42f9e4963856e5016ff",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e99a367db5dca42f9e4963856e5016ff",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e99a367db5dca42f9e4963856e5016ff"
+                        ]
+                    },
+                    "Id": "6bd90b0f33d3722d759b0fc2d5ddc9bd",
+                    "EffectId": "634163",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583938989000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"63cb7ee1d3fd742bde15b3a5ad84f033\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "634164",
+                    "ResourceId": "6720029963602366979",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375685000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "飘落闪粉",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "517bbcd8e398072ce95c0d9763c4c914",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/517bbcd8e398072ce95c0d9763c4c914",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/517bbcd8e398072ce95c0d9763c4c914"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "fcf253e491e644a73a3a66d0ed8931de",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/fcf253e491e644a73a3a66d0ed8931de",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/fcf253e491e644a73a3a66d0ed8931de"
+                        ]
+                    },
+                    "Id": "517bbcd8e398072ce95c0d9763c4c914",
+                    "EffectId": "634165",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583939023000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"da41dce997760fcf0c2072108d15771a\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "875965",
+                    "ResourceId": "6858138911487562248",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1596989220000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "冲屏闪粉",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "98753cc737cac50d460ec6f204cdae5b",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/98753cc737cac50d460ec6f204cdae5b",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/98753cc737cac50d460ec6f204cdae5b"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "d60f3b1d449b7d6ba3931bc7a9af5af9",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/d60f3b1d449b7d6ba3931bc7a9af5af9",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/d60f3b1d449b7d6ba3931bc7a9af5af9"
+                        ]
+                    },
+                    "Id": "98753cc737cac50d460ec6f204cdae5b",
+                    "EffectId": "875969",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1596813767000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"374ffe8a1feeb818f2cef8e918425858\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "634128",
+                    "ResourceId": "6715209448521994755",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1586375685000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "亮片",
+                    "Hint": "",
+                    "SdkVersion": "6.6.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "b27dcf2220fd8d3ff7216d9364d07b62",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/b27dcf2220fd8d3ff7216d9364d07b62",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/b27dcf2220fd8d3ff7216d9364d07b62"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "517e03946804d1cb27f7c0342aad039e",
+                        "UrlList": [
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/517e03946804d1cb27f7c0342aad039e",
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/517e03946804d1cb27f7c0342aad039e"
+                        ]
+                    },
+                    "Id": "b27dcf2220fd8d3ff7216d9364d07b62",
+                    "EffectId": "634129",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "AmazingFeature"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1583938606000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"effect_duration\":3000,\"sliders\":\"{\\\"effectSlider\\\":[{\\\"effect_key\\\":\\\"effects_adjust_background_animation\\\",\\\"name\\\":\\\"不透明度\\\"}]}\",\"hover_icon\":\"67999bbb5f3e9139941c53ae6028dfad\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"setting\":{\"effect_adjust_params\":[{\"effect_key\":\"effects_adjust_speed\",\"default\":0.33,\"max\":1,\"min\":0},{\"effect_key\":\"effects_adjust_background_animation\",\"default\":1,\"max\":1,\"min\":0}]}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "effects2",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "SystemList": [
+                        "AnimSeqSystem",
+                        "BehaviorSystem",
+                        "CameraSystem",
+                        "EventSystem",
+                        "ScriptSystem",
+                        "Sprite2DRendererSystem",
+                        "TransformSystem",
+                        "MeshRendererSystem"
+                    ],
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                }
+            ],
+            "Collection": [],
+            "CategoryKey": "jinfen",
+            "BindEffects": []
+        }
+    },
+    "extra": {
+        "RecId": "2024061516195054978EAA25B8E70D2E7C"
+    },
+    "BaseResp": {
+        "StatusMessage": "success",
+        "StatusCode": 0
+    }
+}

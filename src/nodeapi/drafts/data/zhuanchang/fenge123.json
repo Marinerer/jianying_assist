@@ -1,0 +1,322 @@
+{
+    "data": {
+        "UrlPrefix": [
+            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/",
+            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/"
+        ],
+        "CategoryEffects": {
+            "HasMore": false,
+            "Cursor": 4,
+            "SortingPosition": 4,
+            "Version": "1844556325045,1378906947054,900,0",
+            "Effects": [
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211678",
+                    "ResourceId": "6968372308419285540",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354564000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "分割",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "c90cd8813df7e6a869a467f4d29a5623",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c90cd8813df7e6a869a467f4d29a5623",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c90cd8813df7e6a869a467f4d29a5623"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "e5043b740dd931226079337e5f2c31a4",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e5043b740dd931226079337e5f2c31a4",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/e5043b740dd931226079337e5f2c31a4"
+                        ]
+                    },
+                    "Id": "c90cd8813df7e6a869a467f4d29a5623",
+                    "EffectId": "4211683",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255096000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"d76b67e614b949b3974685a14d777e85\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211733",
+                    "ResourceId": "6969782622868214302",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354125000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "分割 II",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "8809623e72363cadcf533ae49671a6f4",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/8809623e72363cadcf533ae49671a6f4",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/8809623e72363cadcf533ae49671a6f4"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "366048fceb5ba4ed9842da978e543a93",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/366048fceb5ba4ed9842da978e543a93",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/366048fceb5ba4ed9842da978e543a93"
+                        ]
+                    },
+                    "Id": "8809623e72363cadcf533ae49671a6f4",
+                    "EffectId": "4211740",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255412000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true,\"hover_icon\":\"c7abe1be99a153c7aab69f2d9649fa03\",\"is_business\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211732",
+                    "ResourceId": "6969793843403166215",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354565000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "分割 III",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "bd826dba57320355231354e9d791a77a",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/bd826dba57320355231354e9d791a77a",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/bd826dba57320355231354e9d791a77a"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "c32472a5e818f16f1f17c0f3634cf787",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c32472a5e818f16f1f17c0f3634cf787",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/c32472a5e818f16f1f17c0f3634cf787"
+                        ]
+                    },
+                    "Id": "bd826dba57320355231354e9d791a77a",
+                    "EffectId": "4211739",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255412000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"2c1a77f7f4df7d530bacdb5990b00f3c\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                },
+                {
+                    "EffectType": 0,
+                    "Source": 0,
+                    "IsFavorite": false,
+                    "Subtype": 0,
+                    "IsBusiness": false,
+                    "IsPoi": false,
+                    "SyncId": "4211731",
+                    "ResourceId": "6969793934356648455",
+                    "Channel": 1,
+                    "PublishStatus": 1,
+                    "Ptime": "1661354564000",
+                    "ChallengeId": "0",
+                    "HintFileFormat": 0,
+                    "IsEst": false,
+                    "AppID": 1059,
+                    "HasProfileInfo": false,
+                    "Name": "分割 IV",
+                    "Hint": "",
+                    "SdkVersion": "5.4.0",
+                    "AppVersion": "",
+                    "FileUrl": {
+                        "Uri": "5f0b9ca9682e890a4c9320266965bce7",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5f0b9ca9682e890a4c9320266965bce7",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/5f0b9ca9682e890a4c9320266965bce7"
+                        ]
+                    },
+                    "IconUrl": {
+                        "Uri": "16f63b06285d47e36138487683ccae54",
+                        "UrlList": [
+                            "https://lf26-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/16f63b06285d47e36138487683ccae54",
+                            "https://lf3-effectcdn-tos.byteeffecttos.com/obj/ies.fe.effect/16f63b06285d47e36138487683ccae54"
+                        ]
+                    },
+                    "Id": "5f0b9ca9682e890a4c9320266965bce7",
+                    "EffectId": "4211738",
+                    "DevicePlatform": "all",
+                    "Types": [
+                        "GeneralEffect"
+                    ],
+                    "Tags": [],
+                    "TagsUpdatedAt": "1661255412000",
+                    "Parent": "",
+                    "Children": [],
+                    "HintIcon": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "Music": [],
+                    "DesignerId": "",
+                    "Schema": "",
+                    "Description": "",
+                    "OriginalEffectId": "",
+                    "Requirements": [],
+                    "Extra": "{\"hover_icon\":\"086cfb091e862b551a3a23c0bd089dd9\",\"is_business\":true,\"copyright_pay_review_status\":1,\"copyright_pay_auth_status\":1,\"copyright_can_convert_pay\":true,\"copyright_commerce_review_status\":1,\"copyright_commerce_auth_status\":1,\"copyright_can_convert_commerce\":true}",
+                    "Countrys": [],
+                    "PoiId": "0",
+                    "DesignerEncryptedId": "",
+                    "SdkExtra": "{\"transition\":{\"defaultDura\":0.5,\"isOverlap\":true}}",
+                    "AdRawData": "",
+                    "BindIds": [],
+                    "GradeKey": "",
+                    "ComposerParams": "",
+                    "Panel": "transitions",
+                    "ModelNames": "",
+                    "HintFile": {
+                        "Uri": "",
+                        "UrlList": []
+                    },
+                    "OriginalExtra": "",
+                    "NameTransKey": "",
+                    "HintTextTransKey": ""
+                }
+            ],
+            "Collection": [],
+            "CategoryKey": "fenge123",
+            "BindEffects": []
+        }
+    },
+    "extra": {
+        "RecId": "202406151640541CA9F95EC644380868B8"
+    },
+    "BaseResp": {
+        "StatusMessage": "success",
+        "StatusCode": 0
+    }
+}
