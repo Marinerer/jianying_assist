@@ -11,7 +11,7 @@ module.exports = (env, argv) => {
       path: path.resolve(__dirname, 'dist'),
       filename: isProduction ? 'bundle.[contenthash].js' : 'bundle.js',
       clean: true,
-      publicPath: './'
+      publicPath: '/'
     },
     devtool: isProduction ? 'source-map' : 'eval-source-map',
     module: {
@@ -42,7 +42,8 @@ module.exports = (env, argv) => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './public/index.html',
-        favicon: './public/logo.ico'
+        favicon: './public/logo.ico',
+        inject: 'body'
       })
     ],
     devServer: {

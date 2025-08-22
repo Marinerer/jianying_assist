@@ -14,7 +14,11 @@
       "Bash(taskkill:*)",
       "Bash(pnpm approve-builds:*)",
       "Bash(NODE_ENV=production npx --yes electron@25.9.8 .)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(npm run webpack-dev:*)",
+      "Bash(cmd //c:*)",
+      "WebFetch(domain:localhost)",
+      "Bash(curl:*)"
     ],
     "deny": [],
     "ask": []
