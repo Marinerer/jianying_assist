@@ -13,8 +13,16 @@ const sendLogMessage = (event, message) => {
   }
 };
 
+let skipDownloadFunc = null // 跳过下载函数
+async function skipDownloadFile() {
+  if (skipDownloadFunc) {
+    await skipDownloadFunc();
+  }
+}
+
 async function downloadFile (url, destPath, fileExt="", event = null, retries = 3) {
   let attempt = 1;
+  const promises = { resolve: null, reject: null }
   
   while (attempt <= retries + 1) { // 初始尝试 + 重试次数
     try {
@@ -40,18 +48,29 @@ async function downloadFile (url, destPath, fileExt="", event = null, retries = 
 
       const filePath = path.join(destPath, fileName);
 
+      // 跳过当前文件下载函数
+      skipDownloadFunc = async () => {
+        sendLogMessage(event, `跳过文件下载: ${fileName}`);
+        return promises.resolve({ filePath, fileName })
+      };
+
       // 创建写入流并保存文件
       const writer = fs.createWriteStream(filePath);
       response.data.pipe(writer);
 
       return await new Promise((resolve, reject) => {
+        promises.reject = reject;
+        promises.resolve = resolve;
+
         writer.on('finish', () => {
           sendLogMessage(event, `文件下载完成: ${fileName}`);
-          resolve({ filePath, fileName });
+          skipDownloadFunc = null;
+          promises.resolve({ filePath, fileName });
         });
         writer.on('error', (err) => {
           sendLogMessage(event, `文件写入失败: ${err.message}`);
-          reject(err);
+          skipDownloadFunc = null;
+          promises.reject(err);
         });
       });
     } catch (error) {
@@ -336,6 +355,7 @@ async function parseJYDraft(event, token, draftUrl) {
 
 
 module.exports = {
+  skipDownloadFile,
   downloadFile,
   downloadItem,
   downloadDraft,

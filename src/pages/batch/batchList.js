@@ -209,7 +209,7 @@ const BatchList = () => {
     let type = 'info';
     
     // 根据消息内容确定日志类型
-    if (message.includes('失败') || message.includes('错误')) {
+    if (message.includes('失败') || message.includes('错误') || message.includes('跳过文件下载')) {
       type = 'error';
     } else if (message.includes('完成') || message.includes('成功')) {
       type = 'success';
@@ -229,6 +229,11 @@ const BatchList = () => {
       total: 0
     });
   };
+
+  const skipDownload = () => {
+    ipcRenderer.invoke('skip-download', { file: null })
+    console.log("跳过下载...")
+  }
 
   const handleOpen = (openAfterDownload) => {
     if (!LocalDataService.load_user_data()) {
@@ -426,8 +431,11 @@ const BatchList = () => {
 
       {/* 下载日志显示区域 */}
       <Card className="mt-4">
-        <Card.Header className="d-flex justify-content-between align-items-center">
-          <h5 className="mb-0">下载日志</h5>
+        <Card.Header className="d-flex align-items-center">
+          <h5 className="mb-0 jy-flex-item">下载日志</h5>
+          <Button variant="outline-secondary jy-mr-2" size="sm" onClick={skipDownload}>
+            跳过文件
+          </Button>
           <Button variant="outline-secondary" size="sm" onClick={clearLogs}>
             清除日志
           </Button>

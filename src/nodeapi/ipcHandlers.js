@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const { jitangHandler } = require('./jitang/jitangHandler');
 const { animeHandler } = require('./anime/animeHandler');
-const { downloadDraft } = require('./jitang/download');
+const { downloadDraft, skipDownloadFile } = require('./jitang/download');
 
 console.log(process.versions.electron);
 console.log(process.versions.chrome);
@@ -48,6 +48,8 @@ function setupIpcHandlers () {
   });
 
   ipcMain.handle('download-json-and-resources', async (event, data) => downloadDraft(event, data))
+
+  ipcMain.handle('skip-download', async (event, data) => skipDownloadFile(event, data))
 
   ipcMain.handle('open-shell-python', async (event, data) => autoScene(event, data))
 

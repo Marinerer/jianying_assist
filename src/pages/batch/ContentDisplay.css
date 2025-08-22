@@ -1,4 +1,37 @@
 /* ContentDisplay.css */
+.jy-flex{
+  display: flex;
+}
+.jy-flex-column{
+  flex-direction: column;
+}
+.jy-flex-row{
+  flex-direction: row;
+}
+.jy-flex-wrap{ 
+  flex-wrap: wrap;
+}
+.jy-flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.jy-flex-y-center{
+  display: flex;
+  align-items: center;
+}
+.jy-flex-x-center{
+  display: flex;
+  justify-content: center;
+}
+.jy-flex-item{
+  flex: 1;
+}
+.jy-mr-2{
+  margin-right: 8px;
+}
+
+
 .content-container {
   margin: 10px 0;
 }

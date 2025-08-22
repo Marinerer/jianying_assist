@@ -65,13 +65,14 @@ function App () {
       <Router>
         <Navbar expand="lg" className='navigation'>
           <Navbar.Brand as={Link} to="/" style={{ color: 'white', marginLeft: '12px', display: 'flex', alignItems: 'center' }}>
-            剪映小助手(免费客户端)
+            剪映助手(自定义)
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" className="custom-toggler" />
           <Navbar.Collapse id="basic-navbar-nav" >
             <Nav className="navigation-tab" >
               {/* <NavLink className='tab-info' to='/batchList' onClick={(e) => handleNavLinkClick(e, '/batchList')} activeClassName="active-link" >扣子笔记本</NavLink> */}
               <a className='tab-info' href='#' onClick={toOfficial}>前往官网</a>
+              <NavLink className='tab-info' to='/batchList' onClick={(e) => handleNavLinkClick(e, '/batchList')} activeClassName="active-link" >创建草稿</NavLink>
               {/* <NavLink className='tab-info' to='/cozeList' onClick={(e) => handleNavLinkClick(e, '/cozeList')} activeClassName="active-link">模板广场</NavLink> */}
               {/* <NavLink className='tab-info' to='/my_wallet' onClick={(e) => handleNavLinkClick(e, '/my_wallet')} activeClassName="active-link" >分销赚钱</NavLink> */}
               {/* <NavLink className='tab-info' to='/templateList' onClick={(e) => handleNavLinkClick(e, '/templateList')} activeClassName="active-link" >模板广场</NavLink> */}
@@ -86,7 +87,7 @@ function App () {
         </div>
         <ToastContainer style={{ top: '55px' }} />
         {isMobile && <MobileNavigation userProfileRef={userProfileRef} />}
-        <AIKefu /> {/* 添加AI客服组件 */}
+        {/* <AIKefu /> 添加AI客服组件 */}
       </Router>
     </div>
   );
