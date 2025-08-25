@@ -1,6 +1,6 @@
 {
   "name": "jianyin_agent",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "剪映助手 - 智能视频创作工具",
   "author": "Your Name or Company",
   "main": "main.js",
@@ -12,7 +12,7 @@
     "webpack-dev": "webpack serve --config webpack.config.js",
     "build": "webpack --mode=production",
     "pack": "electron-builder",
-    "dist": "pnpm run build && electron-builder",
+    "dist": "npm run build && electron-builder",
     "postinstall": "electron-builder install-app-deps"
   },
   "build": {

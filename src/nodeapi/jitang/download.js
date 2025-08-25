@@ -298,8 +298,12 @@ async function downloadDraft_one (event, data, index = 1, url_total = 1) {
 
     //把file_dir 文件夹移动到draft_path下
     await new Promise(resolve => setTimeout(resolve, 1000));
-    fs.renameSync(resource_path, path.join(draft_path, file_dir));
-    sendLogMessage(event, `移动资源文件夹到草稿目录`);
+    try {
+      fs.renameSync(resource_path, path.join(draft_path, file_dir));
+      sendLogMessage(event, `移动资源文件夹到草稿目录`);
+    } catch (_err) {
+      sendLogMessage(event, `移动资源文件夹到草稿目录失败：'${draft_name}', ${draft_path}`);
+    }
 
     // 保存draft_content 到draft_path下
     let draft_content_path = path.join(draft_path, file_dir + ".json")

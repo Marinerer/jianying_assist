@@ -170,3 +170,6 @@ pnpm install
 # 重新构建原生模块
 pnpm run postinstall
 ```
+
+### 创建剪映草稿发生错误
+创建剪映草稿时，如果遇到错误，请检查软件安装目录 `resources/app.asar.unpacked/` 下是否存在`jianyin/template/`模板文件。
